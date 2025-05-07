@@ -22,6 +22,10 @@ This repository contains my collection of digital certificates from online cours
    Completed: May 7, 2025
    [🔗 View Certificate](https://www.kaggle.com/certification/badges/bonifasiussinurat/30)
 
+2. **Python**
+   Completed: May 7, 2025
+   [🔗 View Certificate](https://www.kaggle.com/learn/certification/bonifasiussinurat/python)
+
 ---
 
 ## 🛠️ Upcoming Additions
