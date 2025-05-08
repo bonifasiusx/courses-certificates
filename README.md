@@ -18,14 +18,13 @@ This repository contains my collection of digital certificates from online cours
 
 ### 🟠 Kaggle
 
-1. **Intro to Programming**
-   Completed: May 7, 2025
-   [🔗 View Certificate](https://www.kaggle.com/certification/badges/bonifasiussinurat/30)
+1. **Intro to Programming**  
+   Completed: May 7, 2025  
+   [🔗 View Certificate](https://www.kaggle.com/certification/badges/bonifasiussinurat/30)  
 
-2. **Python**
-   Completed: May 7, 2025
+2. **Python**  
+   Completed: May 7, 2025  
    [🔗 View Certificate](https://www.kaggle.com/learn/certification/bonifasiussinurat/python)
-
 
 ---
 
