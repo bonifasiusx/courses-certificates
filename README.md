@@ -26,6 +26,10 @@ This repository contains my collection of digital certificates from online cours
    Completed: May 7, 2025  
    [🔗 View Certificate](https://www.kaggle.com/learn/certification/bonifasiussinurat/python)
 
+3. **Intro to Machine Learning**  
+   Completed: May 13, 2025  
+   [🔗 View Certificate](https://www.kaggle.com/learn/certification/bonifasiussinurat/intro-to-machine-learning)
+
 ---
 
 ## 🛠️ Upcoming Additions
