@@ -16,6 +16,10 @@ This repository contains my collection of digital certificates from online cours
    Completed: May 2, 2025  
    [🔗 View Certificate](https://progate.com/course_certificate/7c03e1a3svn5rf)
 
+2. **SQL**  
+   Completed: May 17, 2025  
+   [🔗 View Certificate](https://progate.com/courses/sql#certificate)
+   
 ### 🟠 Kaggle
 
 1. **Intro to Programming**  
