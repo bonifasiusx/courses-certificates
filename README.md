@@ -34,6 +34,13 @@ This repository contains my collection of digital certificates from online cours
    Completed: May 13, 2025  
    [🔗 View Certificate](https://www.kaggle.com/learn/certification/bonifasiussinurat/intro-to-machine-learning)
 
+### 🟠 Purwadhika
+
+1. **Intro to Data Science Free Course**  
+   Completed: May 22, 2025  
+   [🔗 View Certificate](https://purwadhika.com/verify-certificate/PWDK-ITDSFC-250428-0000004)  
+
+
 ---
 
 ## 🛠️ Upcoming Additions
