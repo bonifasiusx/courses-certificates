@@ -34,6 +34,12 @@ This repository contains my collection of digital certificates from online cours
    Completed: May 13, 2025  
    [🔗 View Certificate](https://www.kaggle.com/learn/certification/bonifasiussinurat/intro-to-machine-learning)
 
+### 🟠 HackerRank
+
+1. **Python (Basci)**  
+   Completed: May 30, 2025  
+   [🔗 View Certificate](https://www.hackerrank.com/certificates/9b949b417089)  
+
 ### 🟠 Purwadhika
 
 1. **Intro to Data Science Free Course**  
