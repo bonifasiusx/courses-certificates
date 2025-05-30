@@ -36,7 +36,7 @@ This repository contains my collection of digital certificates from online cours
 
 ### 🟠 HackerRank
 
-1. **Python (Basci)**  
+1. **Python (Basic)**  
    Completed: May 30, 2025  
    [🔗 View Certificate](https://www.hackerrank.com/certificates/9b949b417089)  
 
