@@ -38,7 +38,11 @@ This repository contains my collection of digital certificates from online cours
 
 1. **Python (Basic)**  
    Completed: May 30, 2025  
-   [🔗 View Certificate](https://www.hackerrank.com/certificates/9b949b417089)  
+   [🔗 View Certificate](https://www.hackerrank.com/certificates/9b949b417089)
+  
+2. **Problem Solving (Basic)**  
+   Completed: May 30, 2025  
+   [🔗 View Certificate](https://www.hackerrank.com/certificates/2ba40842a106)
 
 ### 🟠 Purwadhika
 
